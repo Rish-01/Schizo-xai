@@ -1,0 +1,13 @@
+ghostipy==0.2.2
+matplotlib
+meegkit==0.1.3
+mne 
+numpy 
+opencv-python
+Pillow 
+scikit-learn 
+seaborn 
+tensorboard 
+torch==2.1.0
+torchvision==0.16.0
+tqdm 
