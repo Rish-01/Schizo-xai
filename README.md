@@ -1,7 +1,7 @@
 # Schizo-xai: Schizophrenia Detection using Wavelet Transform and ResNet-18 🧠 📊
 
 ## Overview
-This project aims to detect schizophrenia using wavelet transform and a ResNet-18 based classification model. The utilization of wavelet transform allows for a detailed analysis of Electroencephalogram (EEG) data, providing valuable insights into the components of brain signals.
+This project aims to detect schizophrenia using wavelet transform and a ResNet-18 based classification model. The utilization of wavelet transform allows for a detailed analysis of Electroencephalogram (EEG) data, providing valuable insights into the components of brain signals. You can access my bachelor's thesis [here](https://drive.google.com/file/d/10Ym5TJjOo7lLxuiEEK1GIq8H6MTtUCb3/view?usp=sharing)
 
 ## Features
 - Schizophrenia detection through EEG data.
